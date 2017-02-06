@@ -25,3 +25,6 @@ _testmain.go
 
 # Dependencies folder
 vendor
+
+# Glide
+glide.lock
