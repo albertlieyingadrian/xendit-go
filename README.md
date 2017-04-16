@@ -6,7 +6,7 @@
 ## Installation & Configuration
 Ensure you have installed:
 * [Golang](https://golang.org/doc/install)
-* [Glide - Golang Package Management]  (https://github.com/Masterminds/glide)
+* [Glide - Golang Package Management](https://github.com/Masterminds/glide)
 
 ## Examples
 * Run `glide install` to install all your dependencies
